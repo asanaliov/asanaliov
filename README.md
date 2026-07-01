@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asanaliov&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+```md
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanaliov&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=asanaliov&theme=github-dark-blue&hide_border=true)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanaliov&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanaliov&theme=github_dark)
+
+</div>
+```

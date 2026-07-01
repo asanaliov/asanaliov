@@ -6,8 +6,4 @@
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanaliov\&theme=github_dark)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asanaliov\&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanaliov\&theme=github_dark\&utcOffset=2)
-
 </div>
